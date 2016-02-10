@@ -1,2 +1,2 @@
 # hello-world
-Hello World
+I am studying at NCI.
